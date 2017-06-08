@@ -1,0 +1,6 @@
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\Conso\bin\Debug\Conso.exe.config
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\Conso\bin\Debug\Conso.exe
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\Conso\bin\Debug\Conso.pdb
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\Conso\obj\Debug\Conso.csprojResolveAssemblyReference.cache
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\Conso\obj\Debug\Conso.exe
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\Conso\obj\Debug\Conso.pdb
