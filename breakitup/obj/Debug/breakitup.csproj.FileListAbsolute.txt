@@ -1,0 +1,6 @@
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\breakitup\bin\Debug\breakitup.exe.config
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\breakitup\bin\Debug\breakitup.exe
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\breakitup\bin\Debug\breakitup.pdb
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\breakitup\obj\Debug\breakitup.csprojResolveAssemblyReference.cache
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\breakitup\obj\Debug\breakitup.exe
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\breakitup\obj\Debug\breakitup.pdb

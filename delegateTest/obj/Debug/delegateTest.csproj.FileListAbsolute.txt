@@ -1,0 +1,6 @@
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\delegateTest\bin\Debug\delegateTest.exe.config
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\delegateTest\bin\Debug\delegateTest.exe
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\delegateTest\bin\Debug\delegateTest.pdb
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\delegateTest\obj\Debug\delegateTest.csprojResolveAssemblyReference.cache
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\delegateTest\obj\Debug\delegateTest.exe
+C:\Users\praba\documents\visual studio 2015\Projects\ThreadTut\delegateTest\obj\Debug\delegateTest.pdb

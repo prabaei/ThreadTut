@@ -10,6 +10,7 @@ namespace Conso
     class Program
     {
         public static int count = 0;
+        public static object baton = new object();
         static void Main(string[] args)
         {
             var ttv = new Thread(countth);
@@ -24,8 +25,14 @@ namespace Conso
         {
             while (true)
             {
-                count++;
+                lock(baton){ 
+                int temp = 0;
+                temp = count + 1;
+                
+                Thread.Sleep(1000);
+                count = temp;
                 Console.WriteLine("Thread " + Thread.CurrentThread.ManagedThreadId + " count " + count);
+                }
                 Thread.Sleep(1000);
             }
         }
